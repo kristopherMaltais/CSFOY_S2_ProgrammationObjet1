@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facture", "Facture\Facture.csproj", "{C4D2A946-6AC2-4A91-8EA0-3C9E009F960E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactureTestsUnitaires", "FactureTestsUnitaires\FactureTestsUnitaires.csproj", "{8C5E62DE-E649-408F-92FD-454156A07476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4D2A946-6AC2-4A91-8EA0-3C9E009F960E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D2A946-6AC2-4A91-8EA0-3C9E009F960E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D2A946-6AC2-4A91-8EA0-3C9E009F960E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D2A946-6AC2-4A91-8EA0-3C9E009F960E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5E62DE-E649-408F-92FD-454156A07476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5E62DE-E649-408F-92FD-454156A07476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5E62DE-E649-408F-92FD-454156A07476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5E62DE-E649-408F-92FD-454156A07476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB99DEA3-1103-47A1-BDB9-B4872D3953CF}
+	EndGlobalSection
+EndGlobal
